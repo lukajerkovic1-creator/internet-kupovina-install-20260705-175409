@@ -1,0 +1,7 @@
+{
+  "latestVersionCode": 22,
+  "latestVersionName": "1.0.21",
+  "apkUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/internet-kupovina.apk",
+  "pageUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/",
+  "releaseNotes": "Dodana je rucna provjera nove verzije u Postavkama. Aplikacija sada koristi GitHub Pages za preuzimanje i update manifest."
+}
