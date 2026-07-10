@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 32,
-  "latestVersionName": "1.0.31",
+  "latestVersionCode": 33,
+  "latestVersionName": "1.0.32",
   "apkUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/internet-kupovina.apk",
   "pageUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/",
-  "releaseNotes": "Maknut je stari overlay efekt. Sljokice se sada vide kao presijavanje na zlatnim povrsinama nakon 1,3 s mirovanja i staju tijekom skrolanja."
+  "releaseNotes": "Glavni filtri narudzbi sada prate stvarni tijek kupnje: Za platiti, Ceka dostavu, Povrat, Ceka novac i Zavrseno."
 }
