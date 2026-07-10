@@ -6,9 +6,13 @@
   <title>Internet kupovina - download</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 32px; line-height: 1.45; background: #fffefb; color: #24211c; }
-    .card { max-width: 560px; border: 1px solid #e8dfcf; border-radius: 22px; padding: 24px; background: linear-gradient(135deg, #ffffff, #fbf6ea, #f5ebd7); }
+    .card { max-width: 720px; border: 1px solid #e8dfcf; border-radius: 22px; padding: 24px; background: linear-gradient(135deg, #ffffff, #fbf6ea, #f5ebd7); }
     a.button { display: inline-block; padding: 13px 18px; background: #24211c; color: white; text-decoration: none; border-radius: 999px; font-weight: 700; }
     .muted { color: #6f6a61; }
+    .shots { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; margin-top: 20px; }
+    .shot { background: white; border: 1px solid #e8dfcf; border-radius: 18px; padding: 10px; }
+    .shot img { width: 100%; border-radius: 12px; display: block; }
+    .shot p { margin: 8px 0 0; font-weight: 700; }
   </style>
 </head>
 <body>
@@ -16,6 +20,11 @@
     <h1>Internet kupovina</h1>
     <p>Preuzmi Android APK verziju 1.0.24 s premium bijelo-zlatnim redizajnom.</p>
     <p><a class="button" href="internet-kupovina.apk">Preuzmi APK</a></p>
+    <div class="shots">
+      <div class="shot"><a href="home.png"><img src="home.png" alt="Početna"></a><p>Početna</p></div>
+      <div class="shot"><a href="orders.png"><img src="orders.png" alt="Narudžbe"></a><p>Narudžbe</p></div>
+      <div class="shot"><a href="editor.png"><img src="editor.png" alt="Editor"></a><p>Editor</p></div>
+    </div>
     <p class="muted">Ova stranica je namijenjena za GitHub Pages objavu.</p>
     <p class="muted">Ako Android pita, dopusti instalaciju iz preglednika za ovu datoteku.</p>
   </div>
