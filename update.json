@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 27,
-  "latestVersionName": "1.0.26",
+  "latestVersionCode": 29,
+  "latestVersionName": "1.0.28",
   "apkUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/internet-kupovina.apk",
   "pageUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/",
-  "releaseNotes": "Luksuzniji metalik zlatni redizajn: sjajnija zlatna, zlatni rubovi, crno-zlatni gumbi i odobreni wow pocetni ekran."
+  "releaseNotes": "Dodane su postavke izgleda, Golden rose tema i prekidac za efekt sljokica koji se animira samo dok aplikacija miruje."
 }
