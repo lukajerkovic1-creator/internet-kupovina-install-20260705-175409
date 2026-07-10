@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 30,
-  "latestVersionName": "1.0.29",
+  "latestVersionCode": 31,
+  "latestVersionName": "1.0.30",
   "apkUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/internet-kupovina.apk",
   "pageUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/",
-  "releaseNotes": "Pojacan je wow efekt sljokica: vidljiviji zlatni odsjaji i shimmer dok aplikacija miruje, uz zaustavljanje animacije tijekom skrolanja."
+  "releaseNotes": "Efekt sljokica je sada puno vidljiviji: zlatni sparkle overlay preko ekrana, veci odsjaji i shimmer dok aplikacija miruje."
 }
