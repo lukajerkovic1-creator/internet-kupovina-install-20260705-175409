@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 33,
-  "latestVersionName": "1.0.32",
+  "latestVersionCode": 34,
+  "latestVersionName": "1.0.33",
   "apkUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/internet-kupovina.apk",
   "pageUrl": "https://lukajerkovic1-creator.github.io/internet-kupovina-install-20260705-175409/",
-  "releaseNotes": "Glavni filtri narudzbi sada prate stvarni tijek kupnje: Za platiti, Ceka dostavu, Povrat, Ceka novac i Zavrseno."
+  "releaseNotes": "Dodan je status Dostavljeno, uklonjen genericki status Aktivna narudzba te su dodane akcije Zadrzi i zavrsi i Ponovno otvori."
 }
